@@ -10,7 +10,7 @@ A powerful tweak for TikTok!
    
     | Application | Version | Unicorn |
     | --- | --- | --- |
-    | [TikTok](https://mega.nz/file/1NhAXJpL#P4uQnGUKq7kS-KpSDTvZ4rmOwxOFL4pqxoj2xJiiv5A) | 18.5.0 | 4.9 |
+    | [TikTok](https://mega.nz/file/IUhH2abT#kgV8SF29Rl_1BUQiwm0z0YR4rD7iZBdP_yImdIxZ9Ks) | 18.6.6 | 5.0 |
 
         
 &nbsp;
